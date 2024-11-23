@@ -1,6 +1,6 @@
 {
     "name": "caivmo/starterphp",
-    "description": "Starter library php",
+    "description": "Starter library composer",
     "type": "library",
     "autoload": {
         "psr-4": {
