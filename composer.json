@@ -1,0 +1,20 @@
+{
+    "name": "caivmo/starterphp",
+    "description": "Starter library php",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Caivmo\\Starterphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Iván Moreno",
+            "email": "carlosivanmorenoc@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.4"
+    }
+}
